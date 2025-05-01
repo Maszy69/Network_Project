@@ -22,5 +22,3 @@ Building interconnection through simulated WAN links.
 Security:
 
 Passwords, VTY access, login banners, etc.
-
-https://maszy.freeboxos.fr:17920/share/svBxdUCDjgI7vii3/Maquette_finale.pka
