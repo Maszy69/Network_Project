@@ -5,7 +5,7 @@ You can access the project file via the release.
 
 This project involves modeling the network architecture of a city using Cisco Packet Tracer. It includes the design, configuration, and implementation of networks for various buildings (companies, public services, etc.), with a focus on a structured and secure enterprise network using VLANs, configured switches, and inter-VLAN routing.
 
-City layout: The city is modeled with multiple zones (companies, city hall, hospital, etc.).
+City layout: The city is modeled with multiple zones (companies, data center, library, etc.).
 
 Enterprise infrastructure:
 
