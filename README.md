@@ -1,7 +1,7 @@
 # Network_Project 
 Network 2nd year Project 
 
-You can access the project file via this link: [https://maszy.freeboxos.fr:17920/share/svBxdUCDjgI7vii3/Maquette_finale.pka]
+You can access the project file via the release.
 
 This project involves modeling the network architecture of a city using Cisco Packet Tracer. It includes the design, configuration, and implementation of networks for various buildings (companies, public services, etc.), with a focus on a structured and secure enterprise network using VLANs, configured switches, and inter-VLAN routing.
 
